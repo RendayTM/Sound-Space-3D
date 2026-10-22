@@ -1,0 +1,1 @@
+{"metadata":{"position":4,"type":"BufferGeometry","generator":"io_three","version":3},"data":{"attributes":{"position":{"itemSize":3,"type":"Float32Array","array":[-1.0,-1.0,0.0,1.0,-1.0,0.0,1.0,1.0,0.0,-1.0,1.0,0.0]}},"index":{"itemSize":1,"type":"Uint16Array","array":[0,1,2,0,2,3]}}}
