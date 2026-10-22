@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "verbatimModuleSyntax": false,
+    "moduleDetection": "auto"
+  },
+  "include": ["src/**/*.ts", "src/**/*.d.ts"]
+}
